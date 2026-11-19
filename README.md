@@ -19,3 +19,4 @@
 * **Специальность:** Информационные системы и программирование
 * **Почта для связи:** [nv.permichev45@gmail.com](mailto:nv.permichev45@gmail.com)
 * **Мой профиль на GitHub:** [Перейти в профиль](https://github.com/nikitapermichev))
+* **При поддержке:** [Перейти]([https://github.com/nikitapermichev](https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRv___tCO87l38diX3O8rmNIXiWHMJaMdMwmTWckHQZozHwUsWEGqvIxUhW21VUi_1gDrhpB6mf4XLSkf8WchVpAoFJVuAT&s=19)))
